@@ -1,5 +1,5 @@
 # Wallpaper Changer
-Schedule changes to your desktop background image at a certain time of the day. 
+Schedule changes to your desktop wallpaper at a certain time of the day. 
 
 ## Getting Started
 
