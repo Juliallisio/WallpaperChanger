@@ -1,0 +1,25 @@
+
+.root {
+	-fx-background-color: #374a68;
+} 
+.titleBox {
+	-fx-alignment: center;
+}
+.titleText{
+	-fx-font-size: 30;
+	-fx-fill: white;
+}
+.centerBox{
+	-fx-alignment: center;
+}
+.bottomBox{
+	-fx-alignment: top-center;
+	-fx-spacing: 0.5cm;  
+}
+.timeSelector{
+	-fx-alignment: center;
+	-fx-spacing: 0.5cm;  
+}
+.fileSelector{
+	-fx-alignment: center; 
+}
